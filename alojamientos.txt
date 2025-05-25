@@ -1,0 +1,10 @@
+A101|Casa Bella Vista|Casa|Antioquia|Medellín|Calle 10 #34-56|150000|1045678901
+AMENIDADES:WiFi,Piscina,Cocina equipada,Aire acondicionado,Estacionamiento
+B202|Apartamento Moderno|Apartamento|Antioquia|Envigado|Carrera 25 #45-67|120000|2034567890
+AMENIDADES:WiFi,Gimnasio,Lavadora,Smart TV,Balcón
+C303|Cabaña El Bosque|Cabaña|Antioquia|Guatapé|Vereda La Piedra #123|180000|3023456789
+AMENIDADES:Chimenea,Jacuzzi,Vista al lago,Terraza,BBQ
+D404|Loft Urbano|Loft|Antioquia|Sabaneta|Calle 45 #12-34|95000|4012345678
+AMENIDADES:WiFi,Cocina moderna,Área de trabajo,Netflix,Bicicleta
+E505|Villa Paraíso|Villa|Antioquia|Rionegro|Km 2 Vía Aeropuerto|250000|5001234567
+AMENIDADES:Piscina climatizada,Cancha de tenis,Jardín,Sala de juegos,Seguridad 24/7

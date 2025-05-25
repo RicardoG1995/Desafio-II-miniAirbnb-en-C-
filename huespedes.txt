@@ -1,0 +1,5 @@
+1098765432|Carlos Rodríguez|18|4.7
+2087654321|Ana María Gómez|24|4.9
+3076543210|Juan Pablo Martínez|12|4.5
+4065432109|Laura Fernández|36|4.8
+5054321098|Miguel Ángel Torres|30|4.6
