@@ -26,13 +26,14 @@ El Sistema UdeASay es una aplicación de gestión de alojamientos implementada e
 +-------------------+     +------------------+     +------------------+
          |                        |                        |
          |                        |                        |
-+-------------------+     +------------------+     +------------------+
-|     Huesped       |     |    Anfitrion    |     |  MonitorSistema |
-+-------------------+     +------------------+     +------------------+
-| - documento       |     | - documento     |     | - memoriaTotal  |
-| - nombre         |     | - antiguedad    |     | - iteraciones   |
-| - antiguedad     |     | - puntuacion    |     | - reporte       |
-| - puntuacion     |     | - alojamientos  |     +------------------+
++-------------------+     +------------------+     +----------------+
+|   MonitorSistema  |     |    Anfitrion    |     |  Huesped        |
++-------------------+     +------------------+     +----------------+
+| -Memoria total    |     | - documento     |     | - documento     |
+| - Iteraciones     |     | - antiguedad    |      |  - nombre      |
+| - Reporte         |     | - puntuacion    |      | -  antiguedad  |
+|                   |                             | - puntuacion    |
+|                   |     | - alojamientos  |     +------------------+
 +-------------------+     +------------------+
 ```
 
